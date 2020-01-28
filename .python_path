@@ -1,0 +1,2 @@
+export PATH=$PATH:~/Projects/damm:~/Projects/member-number
+export PYTHONPATH=$PYTHONPATH:~/Projects/damm:~/Projects/member-number
