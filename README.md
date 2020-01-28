@@ -1,11 +1,11 @@
-# memberNumber
+# Member Number
 A unique numerical identifier - for organizations that manage members. No SSN's. Uses Damm check digit.
 
 *ex.* **123123451231**
 
 ## Rationale
 
-Any organization that needs to keep track of people can benefit from assigning unique numbers to each individual. Although it's unfortunately all too common in the US that Social Security Numbers are used for this purpose, there are so many privacy and identity theft concerns that it does not make sense to use SSN's - especially when there is a possibility of needing to share the number in any public setting - like verifying membership at a meeting, with volunteers checking people in.
+Any organization that needs to keep track of people can benefit from assigning unique numbers to each individual. Although it's unfortunately all too common in the US that Social Security Numbers are used for this purpose, there are so many privacy and identity theft concerns that it does not make sense to use SSN's - especially when there is a possibility of needing to share the number in any public setting - like verifying membership at a meeting, with volunteers checking individuals in...
 
 For organizations with less than 100K individuals that need to be tracked, this member number design may be helpful.
 
