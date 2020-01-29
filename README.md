@@ -1,7 +1,7 @@
 # Member Number
 A unique numerical identifier - for organizations that manage members. No SSN's. Uses Damm check digit.
 
-*ex.* **123123451231**
+*ex.* **123000013166**
 
 ## Rationale
 
@@ -29,9 +29,9 @@ Although leading zeroes are supported, avoid them when possible as they complica
 ## Install
 
 1. clone the repository
-2. make
-3. make test
-4. make sample
+2. `source .python_path`
+3. `python3 test.py`
+4. `python3 generate_numbers.py`
 
 ## Bugs
 
